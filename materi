@@ -1,0 +1,11 @@
+==== Syntax ====
+
+
+
+
+
+==== Penjelasan ====
+++ Sass adalah bahasa scripting yang memudahkan Anda untuk menulis CSS dengan lebih mudah dan efisien. Ada 2 cara untuk menulis Sass, sintaksis SASS dan sintaksis SCSS. 
+   Di Progate, kita menggunakan sintaksis SCSS, yang mana adalah sintaksis yang lebih umum. File ekstensinya adalah .scss dan bukan .css.
+
+++ 
